@@ -1,0 +1,15 @@
+baseURL = "http://127.0.0.1:1313/"
+title = "AI Tools Radar"
+theme = "PaperMod"
+
+[author]
+name = "Adonyth"
+
+[params]
+author = "Adonyth"
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+disableThemeToggle = false
