@@ -1,11 +1,11 @@
-+++
-title = "AI Tools for Research Workflows: Literature, Notes, and Writing"
-date = "2026-03-04"
-slug = "ai-tools-2026-03-04"
-keywords = ["AI for research", "literature review AI", "academic writing AI"]
-meta_description = "Discover trending AI tools GTM leaders teams can use to level up AI for research."
-client = "demo"
-+++
+---
+title: AI Tools for Research Workflows: Literature, Notes, and Writing
+date: 2026-03-07
+slug: ai-tools-2026-03-07
+keywords: [AI for research, literature review AI, academic writing AI]
+meta_description: Discover trending AI tools GTM leaders teams can use to level up AI for research.
+client: demo
+---
 
 # AI Tools for Research Workflows: Literature, Notes, and Writing
 
@@ -21,42 +21,43 @@ _Your buyers expect AI-grade experiences—here are the tools to deliver._
 5. Metrics, FAQs, and next steps
 
 ## Why GTM leaders teams need an AI upgrade
-Tie Revenue KPIs to automation benefits and cite pains like headcount caps or shrinking launch cycles. Mention highlights from Did Alibaba just kneecap its powerful Qwen AI team? or Marcus AI Claims Dataset.
+Tie Revenue KPIs to automation benefits and cite pains like headcount caps or shrinking launch cycles. Mention highlights from Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours or AI Error May Have Contributed to Girl's School Bombing in Iran.
 
 ## How to evaluate the current wave of tools
-Lay out criteria: integration effort, data governance, pricing transparency, and speed-to-value. Mention highlights from Did Alibaba just kneecap its powerful Qwen AI team? or Marcus AI Claims Dataset.
+Lay out criteria: integration effort, data governance, pricing transparency, and speed-to-value. Mention highlights from Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours or AI Error May Have Contributed to Girl's School Bombing in Iran.
 
 ## Activation plan
-Outline a 30-60-90 roadmap with pilot, rollout, and optimization. Mention highlights from Did Alibaba just kneecap its powerful Qwen AI team? or Marcus AI Claims Dataset.
+Outline a 30-60-90 roadmap with pilot, rollout, and optimization. Mention highlights from Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours or AI Error May Have Contributed to Girl's School Bombing in Iran.
 
 
 ## Featured AI Tools to Know Right Now
 | Tool | What It Does | Link |
 |------|--------------|------|
-| **Did Alibaba just kneecap its powerful Qwen AI team?** | <p>Article URL: <a href="https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in">https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47246746">https://news.ycombinator.com/item?id=47246746</a></p>
-<p>Points: 119</p>
-<p># Comments: 34</p> | [https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in) |
-| **Marcus AI Claims Dataset** | <p>Article URL: <a href="https://github.com/davegoldblatt/marcus-claims-dataset">https://github.com/davegoldblatt/marcus-claims-dataset</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47241813">https://news.ycombinator.com/item?id=47241813</a></p>
-<p>Points: 63</p>
-<p># Comments: 52</p> | [https://github.com/davegoldblatt/marcus-claims-dataset](https://github.com/davegoldblatt/marcus-claims-dataset) |
-| **Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal** | <p>Article URL: <a href="https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal">https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47241092">https://news.ycombinator.com/item?id=47241092</a></p>
-<p>Points: 149</p>
-<p># Comments: 31</p> | [https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal](https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal) |
-| **You are going to get priced out of the best AI coding tools (2025)** | <p>Article URL: <a href="https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of">https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47236218">https://news.ycombinator.com/item?id=47236218</a></p>
-<p>Points: 78</p>
-<p># Comments: 87</p> | [https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of](https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of) |
-| **When AI writes the software, who verifies it?** | <p>Article URL: <a href="https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html">https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47234917">https://news.ycombinator.com/item?id=47234917</a></p>
-<p>Points: 291</p>
-<p># Comments: 283</p> | [https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html) |
-| **Why No AI Games?** | <p>Article URL: <a href="https://franklantz.substack.com/p/why-no-ai-games">https://franklantz.substack.com/p/why-no-ai-games</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47234227">https://news.ycombinator.com/item?id=47234227</a></p>
-<p>Points: 70</p>
-<p># Comments: 81</p> | [https://franklantz.substack.com/p/why-no-ai-games](https://franklantz.substack.com/p/why-no-ai-games) |
+| **Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours** | <p>Article URL: <a href="https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html">https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47287458">https://news.ycombinator.com/item?id=47287458</a></p>
+<p>Points: 97</p>
+<p># Comments: 82</p> | [https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html) |
+| **AI Error May Have Contributed to Girl's School Bombing in Iran** | <p>Article URL: <a href="https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/">https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47284834">https://news.ycombinator.com/item?id=47284834</a></p>
+<p>Points: 58</p>
+<p># Comments: 29</p> | [https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/) |
+| **We might all be AI engineers now** | <p>Article URL: <a href="https://yasint.dev/we-might-all-be-ai-engineers-now/">https://yasint.dev/we-might-all-be-ai-engineers-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47272734">https://news.ycombinator.com/item?id=47272734</a></p>
+<p>Points: 215</p>
+<p># Comments: 326</p> | [https://yasint.dev/we-might-all-be-ai-engineers-now/](https://yasint.dev/we-might-all-be-ai-engineers-now/) |
+| **Labor market impacts of AI: A new measure and early evidence** | <p>Article URL: <a href="https://www.anthropic.com/research/labor-market-impacts">https://www.anthropic.com/research/labor-market-impacts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47268391">https://news.ycombinator.com/item?id=47268391</a></p>
+<p>Points: 324</p>
+<p># Comments: 551</p> | [https://www.anthropic.com/research/labor-market-impacts](https://www.anthropic.com/research/labor-market-impacts) |
+| **A standard protocol to handle and discard low-effort, AI-Generated pull requests** | <p>Article URL: <a href="https://406.fail/">https://406.fail/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47267947">https://news.ycombinator.com/item?id=47267947</a></p>
+<p>Points: 300</p>
+<p># Comments: 114</p> | [https://406.fail/](https://406.fail/) |
+| **Launch HN: Vela (YC W26) – AI for complex scheduling** | <p>Hi HN! We're Gobhanu and Saatvik (brothers), building Vela (<a href="https://tryvela.ai">https://tryvela.ai</a>) - AI agents that handle multi-party, multi-channel scheduling.<p>Scheduling is a constraint satisfaction problem disguised as email! It’s easy when it’s two people, one timezone, one channel. But it becomes a constraint satisfaction problem when inputs are unstructured natural language across multiple communication channels, constraints change mid-solve, and the objective function includes social dynamics that don't exist formally anywhere.<p>What if scheduling just happened? For example: a recruiter sends one message, and every interview across five candidates, three hiring managers, and two time zones gets booked, confirmed, and updated automatically. No links, no back-and-forth, no one spending hours with 20 emails. Everyone just gets the right invite at the right time, on whatever channel they actually use. That's what we built Vela to do.<p>You loop in Vela into your emails, SMS, WhatsApp, Slack, phone or integrate into an ATS etc and it takes over: reads context, checks calendars, proposes times, follows up when people ghost, and rebooks when things shift.<p>One of our first customers is a staffing firm that searched for a scheduling solution for almost eight years. Their coordinators manage hundreds of candidate-client interviews where each side needs separate email threads, separate Zoom accounts to avoid double-booking links, and calendar invites connecting parties who never directly communicate. A client reschedules one interview and it cascades into four others. A candidate responds on SMS to a thread that started on email. Vela solved this in just 10 minutes of onboarding.<p>The hardest part has been the data problem. Scheduling behavior varies enormously across populations. C-suite folks respond to email within hours and expect formal 3-option proposals. Truck drivers applying for logistics roles respond to SMS at odd hours from shared devices with "y tm wrks." The failure mode isn't parsing -- it's applying the wrong interaction pattern for the wrong segment and watching the conversation die. We've been building behavioral datasets from thousands of real interactions: response latency by role, channel preference by demographic, follow-up timing curves, how many options to propose before you hit decision paralysis. This data doesn't exist anywhere.<p>The core agent challenge is state across channels. When someone responds on SMS to a thread that started in email, Vela needs to unify identity, merge context, and continue without losing information. Phone numbers don't map cleanly to emails, people use nicknames on text, shared devices mean the responder might not be who you reached out to. Temporal NLU is its own problem -- "next Friday" means different things on Monday versus Thursday. We extract structured constraints from natural language and resolve against calendar state. When ambiguity can't be resolved, Vela asks -- but deciding when to ask versus infer depends on the stakes of getting it wrong.<p>We're live with paying enterprise customers and every client still surfaces edge cases that surprise us. Case studies on our site (<a href="https://tryvela.ai/case-studies/">https://tryvela.ai/case-studies/</a>). You can check out a demo here: <a href="https://www.youtube.com/watch?v=MzUOjSG5Uvw" rel="nofollow">https://www.youtube.com/watch?v=MzUOjSG5Uvw</a>.<p>We'd love feedback from anyone who's worked on multi-agent coordination, conversational AI across channels, or constraint satisfaction in messy real-world domains. Looking forward to your comments!</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47264741">https://news.ycombinator.com/item?id=47264741</a></p>
+<p>Points: 58</p>
+<p># Comments: 43</p> | [https://news.ycombinator.com/item?id=47264741](https://news.ycombinator.com/item?id=47264741) |
 
 ## FAQ
 1. **What does AI for research actually cover?**
@@ -72,19 +73,19 @@ Book a workflow teardown to design your AI stack.
 ---
 
 ### Source Notes
-- Hacker News AI: [Did Alibaba just kneecap its powerful Qwen AI team?](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
-- Hacker News AI: [Marcus AI Claims Dataset](https://github.com/davegoldblatt/marcus-claims-dataset)
-- Hacker News AI: [Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal](https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal)
-- Hacker News AI: [You are going to get priced out of the best AI coding tools (2025)](https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of)
-- Hacker News AI: [When AI writes the software, who verifies it?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
-- Hacker News AI: [Why No AI Games?](https://franklantz.substack.com/p/why-no-ai-games)
-- Hacker News AI: [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
-- Hacker News AI: [AI-generated art can’t be copyrighted after Supreme Court declines review](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
-- OpenAI Blog: [Extending single-minus amplitudes to gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons)
-- OpenAI Blog: [Understanding AI and learning outcomes](https://openai.com/index/understanding-ai-and-learning-outcomes)
-- OpenAI Blog: [How Axios uses AI to help deliver high-impact local journalism](https://openai.com/index/axios-allison-murphy)
-- OpenAI Blog: [GPT-5.3 Instant System Card](https://openai.com/index/gpt-5-3-instant-system-card)
-- OpenAI Blog: [GPT-5.3 Instant: Smoother, more useful everyday conversations](https://openai.com/index/gpt-5-3-instant)
-- OpenAI Blog: [Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
-- OpenAI Blog: [Joint Statement from OpenAI and Microsoft](https://openai.com/index/continuing-microsoft-partnership)
-- OpenAI Blog: [OpenAI and Amazon announce strategic partnership](https://openai.com/index/amazon-partnership)
+- Hacker News AI: [Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
+- Hacker News AI: [AI Error May Have Contributed to Girl's School Bombing in Iran](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
+- Hacker News AI: [We might all be AI engineers now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
+- Hacker News AI: [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
+- Hacker News AI: [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
+- Hacker News AI: [Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
+- Hacker News AI: [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/)
+- Hacker News AI: [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+- OpenAI Blog: [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview)
+- OpenAI Blog: [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript)
+- OpenAI Blog: [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management)
+- OpenAI Blog: [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card)
+- OpenAI Blog: [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability)
+- OpenAI Blog: [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4)
+- OpenAI Blog: [Ensuring AI use in education leads to opportunity](https://openai.com/index/ai-education-opportunity)
+- OpenAI Blog: [Introducing the Adoption news channel](https://openai.com/index/introducing-the-adoption-news-channel)
