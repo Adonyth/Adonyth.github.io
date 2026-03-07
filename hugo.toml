@@ -1,6 +1,8 @@
-baseURL = "http://127.0.0.1:1313/"
+baseURL = "https://adonyth.github.io/"
 title = "AI Tools Radar"
 theme = "PaperMod"
+relativeURLs = false
+canonifyURLs = true
 
 [author]
 name = "Adonyth"
