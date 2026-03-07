@@ -35,11 +35,11 @@ Outline a 30-60-90 roadmap with pilot, rollout, and optimization. Mention highli
 |------|--------------|------|
 | **Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours** | <p>Article URL: <a href="https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html">https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47287458">https://news.ycombinator.com/item?id=47287458</a></p>
-<p>Points: 97</p>
+<p>Points: 99</p>
 <p># Comments: 82</p> | [https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html) |
 | **AI Error May Have Contributed to Girl's School Bombing in Iran** | <p>Article URL: <a href="https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/">https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47284834">https://news.ycombinator.com/item?id=47284834</a></p>
-<p>Points: 58</p>
+<p>Points: 59</p>
 <p># Comments: 29</p> | [https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/) |
 | **We might all be AI engineers now** | <p>Article URL: <a href="https://yasint.dev/we-might-all-be-ai-engineers-now/">https://yasint.dev/we-might-all-be-ai-engineers-now/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=47272734">https://news.ycombinator.com/item?id=47272734</a></p>
@@ -81,11 +81,11 @@ Book a workflow teardown to design your AI stack.
 - Hacker News AI: [Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
 - Hacker News AI: [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/)
 - Hacker News AI: [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
-- OpenAI Blog: [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview)
 - OpenAI Blog: [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript)
+- OpenAI Blog: [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview)
 - OpenAI Blog: [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management)
-- OpenAI Blog: [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card)
 - OpenAI Blog: [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability)
 - OpenAI Blog: [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4)
+- OpenAI Blog: [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card)
 - OpenAI Blog: [Ensuring AI use in education leads to opportunity](https://openai.com/index/ai-education-opportunity)
 - OpenAI Blog: [Introducing the Adoption news channel](https://openai.com/index/introducing-the-adoption-news-channel)
