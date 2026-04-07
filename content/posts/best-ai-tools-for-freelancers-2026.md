@@ -121,4 +121,10 @@ Yes. The setup service installs everything you need to run local AI on your mach
 
 ---
 
-*Set up a private AI assistant for your freelance business — one-time setup, no monthly fees. [Get started here →](https://www.fiverr.com/adonyth)*
+## Get Started Today
+
+**DIY path ($9.99):** The [Freelancer AI Kit](https://gumroad.com/adonyth) includes the full setup guide, 20 prompts (proposals, scope creep emails, rate increase scripts, cold outreach, and more), and 5 workflow templates. Instant PDF download — most freelancers are up and running in 30 minutes.
+
+**Done-for-you ($19):** Don't want to deal with the setup? [Book on Fiverr](https://www.fiverr.com/adonyth) and get a personalized guide built around your specific tools and workflows — delivered in 24 hours.
+
+**Hardware note:** Any laptop with 8GB+ RAM works. [Apple Silicon Macs](https://www.apple.com/macbook-air/) run local AI models exceptionally efficiently — the M3 MacBook Air is the best option if you're upgrading.

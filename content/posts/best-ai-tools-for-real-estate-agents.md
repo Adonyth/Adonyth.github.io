@@ -110,4 +110,10 @@ For structured tasks like drafting emails, writing listing descriptions, and sum
 
 ---
 
-*Want your own private AI assistant set up for your real estate business? No subscription needed. [One-time setup service available here →](https://www.fiverr.com/adonyth)*
+## Get Started Today
+
+**DIY path ($9.99):** The [Real Estate Agent AI Kit](https://gumroad.com/adonyth) includes a full setup guide, 20 copy-paste prompts built specifically for agents, and 5 fill-in-the-blank workflow templates (listings, CMAs, follow-ups, open houses). Instant PDF download.
+
+**Done-for-you ($19):** Skip the setup entirely. [Book on Fiverr](https://www.fiverr.com/adonyth) and receive a personalized AI assistant guide configured for your workflows — delivered in 24 hours.
+
+**Hardware note:** Apple Silicon Macs ([MacBook Air M3](https://www.apple.com/macbook-air/)) run local AI models faster than any comparable Windows machine at the same price. If you're due for an upgrade, it's the best investment for local AI workloads.
