@@ -1,0 +1,286 @@
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
+Traceback (most recent call last):
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 309, in <module>
+    main()
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 300, in main
+    written = write_articles(date, articles_cfg, cfg, tools, args.dry_run)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 277, in write_articles
+    content = build_article(spec, cfg, date, tools)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/chenjiaxuan/openclaw/skills/content-factory/scripts/run_content_factory.py", line 253, in build_article
+    return template.format(
+           ^^^^^^^^^^^^^^^^
+KeyError: 'audience'
