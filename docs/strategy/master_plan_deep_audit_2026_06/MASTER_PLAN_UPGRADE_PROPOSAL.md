@@ -107,6 +107,17 @@ non-backdatable), substrate portability, and open verifiability."
 的排序决断：在 10 个访谈完成后 14 天内由 founder 作出并记入
 changelog。决断前，禁止任何商业承诺性对外表述。
 （涉及身份/签证与收入交互的部分以专业意见为准。）
+
+## G. 运营模式约束更新（founder 口述更正 2026-06-11）
+
+§2.8 的前提已变化：founder 已毕业，现处 OPT 阶段，可实际运营
+（不再适用"F-1 forces offshore after graduation"假设）。
+据此：①§2.8 中以 F-1 为前提的约束推理需逐条重审（offshore 必然性、
+运营模式限制）；②§F 商业分支的可行域相应扩大；③OPT 自身的
+工作授权边界（雇主关系、自雇形态、专业领域相关性）列入 DSO/attorney
+问题清单优先项，专业意见到达前不做依赖其结论的承诺。
+ultra-lean + 多供应商 + 学术-first 的操作纪律不因身份变化而放松——
+它们各有独立成立的理由（$0 cloud、避免锁定、价值捕获模式）。
 ---
 ```
 
