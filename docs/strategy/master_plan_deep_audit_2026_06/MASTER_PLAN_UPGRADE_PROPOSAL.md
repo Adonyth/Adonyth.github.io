@@ -1,99 +1,120 @@
-# MASTER_PLAN_UPGRADE_PROPOSAL — 升级方案与 Amendment 草稿
+# MASTER_PLAN_UPGRADE_PROPOSAL v2 — 基于原文的升级方案与 Amendment 草稿
 
-## 1. 保留 / 删除 / 重写 / 新增
+## 1. 保留 / 删除 / 重写 / 新增（对照原文逐条）
 
-### 保留（plan 的真资产）
-- 核心 thesis："验证/校准/审计是 AI 时代的稀缺层" + "我们不声称预测更准"
-- claim 分级制度（L0–L5）与全部禁止线
-- gate 制度（pass/fail/kill/no-tune）——制度本身优秀，问题在被审对象的地位
-- finance ledger 作为机制证明的定位（Phase 4 pivot 已正确处理）
+### 保留（不动）
+- §2.5 original-first doctrine、§2.9 七条 negative scope、§3 claim
+  levels、§8 distillation 合法性框架、§11 dual-use gate、§13 IP 策略、
+  §15.5 PMF 仪器区分——全部是高质量纪律，sprint 产物与之兼容
+- §4 GUWM research program 表述（位置调整见下，文本保留）
+- §2.7.1 操作原则全文——plan 最好的段落
 
 ### 删除
-- "Grand Unified World Model" 作为**目标**的全部表述（V1 漏洞）
-- 任何把 quantum 线描述为"核心/基石"的语言 [INFERRED] → 降为
-  "gate 管辖的边缘探索"
-- 多 vertical 并行的暗示——改为"一次一个 resolution 供给实验"
+- §9 的 "similar to how ChatGPT made LLMs visible" 类比（V9'）
+- §2.6 主表中 "uncontested" 一词（改 "unoccupied today"，N4）
+- §2.7.1 "proven-by-competitor's-absence" 的 "proven"（改 "evidenced"，N5）
 
 ### 重写
-- 北极星 → ULTIMATE_GOAL_REWRITE 推荐版（世界模型从目标改为客户）
-- "calibration ledger = demo" → "= 免疫污染评测装置的原型"（O2）
-- civilization research 的定位 → 旗舰收据内容（O3）
-- 术语表统一（V7）：对外 Omytea/receipts/ledger 三词；
-  WMDB、Quantum-Core、Founding Spine 声明为内部代号，列入公开检查项
+- **§1 一句话身份的出场顺序**：收据原则升为第一句，quantum formalism
+  降为第二句（全部诚实限定保留）——见 amendment §A
+- sprint 主线措辞统一："我们不声称更准——我们声称被评分，
+  且你可以复算"（解决与 plan 的双魂冲突）
+- agent rule 10：从"不确定就修 plan"改为"不确定就跑最便宜的外部
+  测试，拿着结果修 plan"（V2 共因修复）
 
 ### 新增
-- 一级章节《Resolution 供给策略》（V4）
-- 一级章节《信任的工程化阶梯》（V5：server timestamp → 开源 verifier →
-  RFC3161 锚定 → 治理）
-- 《修订准入规则》（V2：证据棘轮，见下方 amendment §D）
-- 《开放标准轨道》（O1，轻量：spec 整理与发布，≤1 周/季度投入）
+- §C Tier-0 脊柱规则（N2：活跃轨道 ≤2，其余 DORMANT）
+- §D 证据棘轮（V2：无新外部事实不得修订）
+- 开源记分协议章节（V1' 合题的制度化：schema+评分代码+verifier
+  作为 substrate 的一部分 Apache 2.0 发布——这是 §2.7 peer-set
+  打法在收据层的自然延伸）
 
 ### 升格 / 降级
-- **升格**：buyer discovery（访谈）→ plan 一级活动；receipt 公开页 →
-  第一公开 artifact；O2 position note → 研究叙事主锚
-- **降级**：UI 打磨（P0 之外）、i18n、heatmap/conformal 展示、
-  一切新研究线提案（冻结默认）
+- **升格**：finance ledger 每日运行（从可选 → "敢被评分"的第一份
+  公开日常证据，§2.7.1 的字面实践）；10 个 non-owner 访谈（§14.5
+  自己的 gate，全项目第一优先）；记分协议开源（O1，Tier-0 候选）
+- **降级**：SpaceWorld、device profiles 全谱、WorldStudent 蒸馏、
+  专利管线 → DORMANT（不删除，零对齐成本冻结）；World Console
+  consumer 野心 → 严格按 §14.5 Idea-stage gate 执行（访谈前不 build）
 
-## 2. Amendment 草稿（可直接粘贴进 docs/OMYTEA_MASTER_PLAN.md 文首）
+## 2. Amendment 草稿（可直接粘贴进 docs/OMYTEA_MASTER_PLAN.md）
 
 ```markdown
 ---
-# AMENDMENT 2026-06 — Master Plan V2（经 deep audit 后的修订）
-# 依据：docs/strategy/master_plan_deep_audit_2026_06/（全 10 件）
-# 本 amendment 与正文冲突处，以本 amendment 为准。
+# PLAN_AMENDMENT_2026-06-11 — Deep Audit 修订（待 founder ratify）
+# 依据：docs/strategy/master_plan_deep_audit_2026_06/（v2 全件，
+# 含 AUDIT_VERIFICATION_2026-06-10.md 的逐条核验）
+# 冲突时本 amendment 优先；ratify 后录入 PLAN_CHANGELOG.md。
 
-## A. 北极星（替换原 "Grand Unified World Model" 全部表述）
+## A. 身份语序修订（§1 替换，内容不变、顺序重排）
 
-Omytea 的终极目标不是建造统一的世界模型，而是建造**所有世界模型
-（以及所有预测者——人、机构、agent）都必须接受对账的统一账本**：
-现实的预登记记录层——什么被预言了、何时、由谁、后来发生了什么、
-评分多少。我们不统一模型，我们统一收据。
+新第一句：
+"Omytea is the world model that gets scored: every prediction
+pre-registered, baseline-scored, and reproducible by anyone —
+because when AI can generate infinite futures, the scarce thing
+is not the prediction, it is the proof."
+新第二句（原第一句全部限定保留）：
+"Under the hood it is a world model for streaming reality built on
+a quantum-information FORMALISM (density-matrix ρ belief states;
+representational choice, not a performance claim; prior art per
+HQMM amendments), toward the Grand Unified World Model research
+program (§4)."
 
-推论（不变式）：
-1. Omytea 永不下场做预测业务——中立性是唯一护城河的根基。
-2. 任何"我们的模型/方法更准"类目标自动违宪。
-3. 世界模型公司是潜在客户与被审计对象，不是竞争对手，也不是我们。
+双魂裁定：Omytea 是亮收据的选手，不是不下场的裁判。
+记分层的可信度来源是开源可验证（任何人可复算任何分数），
+不是机构中立性。对外材料相应统一为：
+"We don't claim better predictions — we claim scored ones,
+and you can recompute the scores."
 
-## B. 角色定义（统一术语）
+## B. 对外词汇表（新增）
 
-- 对外名词仅三个：Omytea（公司）、receipt（原子产品物）、
-  ledger（累积履历）。
-- WMDB、Quantum-Core、Founding Spine、future_reality_ledger 为内部
-  代号，禁止出现在任何对外材料（列入发布检查清单）。
+对外名词锁定：Omytea / world model / receipts（或 scored
+predictions）。以下为内部代号，禁止出现在对外材料：
+WMDB、OmyteaCompiler-LLM、OmyteaWorldStudent、SpaceWorld、
+Founding Spine、Quantum-Core、GUWM 缩写（完整短语仅限研究语境
+且必须带 "research program"）。
 
-## C. 主线与供给（新增一级原则)
+## C. Tier-0 脊柱规则（新增）
 
-- 主线 = 收据机制的外部化：non-owner 预测源 × 干净 resolution 供给。
-- Resolution 供给是第一约束：任何 vertical 评估先答
-  "谁供给 resolved outcomes、激励是什么、摩擦多大"。
-- 同时只允许一个 resolution 供给实验在跑。
+任意时刻活跃轨道 ≤2。当前活跃：
+  T-A substrate 收据化：ledger 每日运行 + 记分协议（schema/评分/
+      verifier）整理为 Apache 2.0 可发布形态;
+  T-B console-MVP 访谈线：10 个 non-owner 访谈（§14.5 gate）+
+      receipt 页最小对外形态。
+其余 section（SpaceWorld、device 全谱、WorldStudent、专利、
+console consumer build）状态为 DORMANT：零实现、零对齐、零修订。
+唤醒 DORMANT 轨道需要：一条新外部事实 + 一条活跃轨道转入 DORMANT。
 
-## D. 修订准入规则（防计划递归）
+## D. 修订准入（证据棘轮，新增；并修订 Agent Rule 10）
 
-- 本 plan 的任何修订必须在 changelog 中引用至少一条**新的外部事实**
-  （访谈记录/用户行为/外部数据/第三方反馈），否则修订无效。
-- 版本号冻结：本 amendment 后，plan 修订频率上限为每 30 天一次
-  （外部事实触发的紧急修订除外，需在 changelog 标注触发事实）。
-- 执行类文档（队列/任务包）不受此限，但不得与本 amendment 冲突。
+plan 级修订必须在 changelog 引用 ≥1 条新外部事实（non-owner 访谈/
+用户行为/外部数据/第三方反馈）。Agent Rule 10 修订为：
+"When unsure, run the cheapest external test; amend the plan only
+with the result in hand."
+修订频率上限：每 30 天一次（外部事实触发的紧急修订除外）。
 
-## E. 证据阶梯（plan 级 KPI，替换一切感觉式进度）
+## E. 措辞修正（小项）
 
-唯一进度度量：L 级证据的爬升。
-当前状态如实记录：机制=L2（工具链可运行），市场=L0（零访谈），
-数据=0 行 non-owner。30/60/90 天目标见 MASTER_PLAN_V2_ROADMAP.md。
+§2.6 "uncontested" → "unoccupied today, contestable at will;
+the durable assets are the receipts discipline (time-accumulated,
+non-backdatable), substrate portability, and open verifiability."
+§2.7.1 "proven-by-competitor's-absence" → "evidenced-by-…"。
+§9 删除 ChatGPT 类比句。
+
+## F. 价值捕获决断排程（新增，不预判结论）
+
+学术-社区捕获（§12 现行）与商业收据分支（§2.9.3 override 选项）
+的排序决断：在 10 个访谈完成后 14 天内由 founder 作出并记入
+changelog。决断前，禁止任何商业承诺性对外表述。
+（涉及身份/签证与收入交互的部分以专业意见为准。）
 ---
 ```
 
-## 3. 边界要更硬的地方
+## 3. 边界更硬 / 路线更大胆
 
-- 合规死线（V6）：6/17 邮件未发出 → 一切对外发布冻结（机械执行）
-- gate 死线既有规则不变；任何 gate 外研究提案默认拒绝，
-  进 NEXT_CYCLE_CANDIDATES 排队
-- 自产数据永不混入 non-owner 统计（dryrun 隔离原则推广到一切计数）
-
-## 4. 路线要更大胆的地方
-
-- O1 标准发布：不要等产品成熟——spec v0.1 在 30 天内公开（先发定义权）
-- O3 文明收据：用自己最重的判断当收据示范，比任何营销文案都大胆且诚实
-- 公开 build-in-public 的 ledger 自审计月报（attorney 放行后）：
-  把自己的纪律变成内容资产
+- **更硬**：DORMANT 的定义（零对齐成本）；rule 10 修订；对外词表。
+- **更大胆**：①把"每日被评分"做成公开节目（attorney 放行后 ledger
+  公开 + 月度自审计报告）——没有竞品敢跟，因为他们没有预登记历史；
+  ②记分协议抢先开源（标准先行，O1）；③civilization verdicts 作为
+  最长时间尺度收据上线（O3）——三者都是 §2.7.1 原则的字面执行，
+  不需要新理论、新基建、新人手。

@@ -1,83 +1,80 @@
-# MASTER_PLAN_INTERPRETATION — 我理解的 Omytea Master Plan
+# MASTER_PLAN_INTERPRETATION v2 — 基于原文的理解（取代 v1 推断版）
 
-## 0. 审计基础声明（先读这个）
+> 依据：`OMYTEA_MASTER_PLAN_latest_final_20260610.md` 全文（已读）。
+> v1 的 [INFERRED] 推断已由 AUDIT_VERIFICATION_2026-06-10.md 逐条核验。
 
-`docs/OMYTEA_MASTER_PLAN.md`、`PLAN.md` 等原文在本机，本会话未能读取。
-本次审计的证据基础是：
-1. **五个 Phase 任务描述中泄露的结构信号**：北极星是 "Grand Unified
-   World Model"；WORK_PLAN 迭代至 **V418**；存在 PLAN_ALIGNMENT_PROTOCOL
-   与 PLAN_CHANGELOG（计划管理装置）；Founding Spine 至 **V10**；
-   Quantum-Core Gate 至 **V2**；`future_reality_ledger.py` 这个文件名。
-2. 本仓库 Phase 1–4 全部产出（基于你的描述构建并经你连续四轮验收推进）。
-3. 五组 web research（标注 [WEB]）。
+## 1. 你到底在做什么（七个版本）
 
-对原文的推断一律标 `[INFERRED]`。**计划的病理常写在版本号和文件清单里，
-不在正文里**——V418 本身就是一个比任何段落都响亮的证据。
-本机核验协议见文末。
-
-## 1. 七个版本的解释
-
-### 一句话版
-> Omytea 在为"预测"建立会计制度：预测在结果之前登记、之后被统一评分，
-> 让"谁可信"第一次变成可查账的事实而不是营销话术。
+### 一句话版（忠实于原文 §1+§2.7.1 的合并）
+> Omytea 是一个用密度矩阵（ρ）信念态做"校准多未来预测"的流式现实
+> 世界模型，其运营铁律是：**预测不稀缺，证明才稀缺——做那个敢被
+> 评分的预测者**，长期朝向 Grand Unified World Model 研究纲领。
 
 ### 一段话版
-> AI 把生成预测的成本压到了零，于是预测泛滥而可信归零。历史上每次
-> 生成成本归零，价值都转移到验证层（内容→搜索与信任，财报→审计）。
-> Omytea 押注：预测经济的验证层 = 预登记 + proper scoring + 不可改履历。
-> 它先用自己的 finance calibration ledger 证明机制可行（已做到，工具链
-> 11/11 测试通过、0 行真实数据——如实），再把同一机制泛化为任何预测源
-> （人、分析师、AI agent）的"收据服务"，长期沉淀为预测经济的中立账本。
+> 你在建一个原创架构的世界模型 substrate：观测流 → 状态向量 →
+> ρ 信念态 → 算子代数演化 → 多分支预测 → 测量更新 → 校准修正。
+> 量子信息是表示形式（formalism）而非性能声明（§1 注，HQMM prior art
+> 已诚实承认）。LLM 是编译器不是真相源（§7）。价值捕获主路径是学术
+> 发表+开源社区（§12，peer set 是 QuTiP/ggml 而非创业公司）。
+> 消费产品 World Console 是 substrate 的演示面而非产品本体（§9）。
+> 2026-06-02 起锁定的运营原则把一切产出物定义为"可分享的收据"——
+> 因为 MiroFish 证明了生成"可信的未来"易如反掌，被评分的预测者
+> 几乎不存在（§2.7.1）。
 
 ### 技术版
-> 一个 append-only、预登记、proper-scored 的 claim/outcome 账本：
-> server-side 时间戳 + content hash 构成不可抵赖性，CRPS/Brier/PIT/coverage
-> 构成统一计分，resolution 供给（干净的 non-owner outcomes）是真正的
-> 技术瓶颈——不是算法，是数据管道与激励设计。
+> 核心合同：`Observation → StateVector → BeliefState → ρ → OperatorGraph
+> → Prediction → MeasurementUpdate`（§2.5，不可被外部世界模型替换）。
+> 已有 L2/L3 资产（plan 自报）：Lindblad 动力学、张量网络、量子行走、
+> p-bit 采样、密度矩阵 DB 查询、Query DSL。可移植性（CPU→量子硬件，
+> §10）被定位为复利型护城河。
 
 ### 产品版
-> v0 是收据：一条预测换一个可分享的、防篡改的 URL。v1 是履历：
-> 收据累积成不可美化的 track record。v2 是基础设施：agent pipeline
-> 直接 POST claim，审计包成为 AI 采购的标配附件。
+> 三层：①substrate（Apache 2.0，学术-社区采纳是其 PMF，§15.5 下表）
+> ②World Console（Idea 阶段，gate=10 个 non-owner 访谈，§14.5）
+> ③收据纪律产物（ledger/receipts——sprint 的产出在此层）。
+> 危险的混淆是把 ②当成公司本体（§9 开头自己警告了）。
 
-### 投资人版
-> 世界模型是 2026 年最拥挤的资本竞赛（LeCun $1.03B 种子、World Labs
-> $5B 估值 [WEB]）。所有人都在造预测者，没有人在造记分牌。
-> 预测者越多，记分牌越值钱，且记分牌只能有一个中立的。
-> 我们在用最便宜的方式占据那个位置。
+### 投资人版（注意：plan 本身不是融资导向的）
+> 这不是一家典型创业公司——§2.7 明确对标 ggml/QuTiP/scikit-learn，
+> §2.8 锁死 ultra-lean 模式，§12 说"发表即产品策略"。如果对投资人
+> 讲，唯一诚实的版本是："深科技开源 substrate + 收据纪律，商业分支
+> 是保留选项（§2.9 override 机制）而非默认路径。"
 
 ### 研究版
-> 预登记的、未来才 resolve 的预测记录，是构造上免疫训练集污染的
-> 评测基准（现有 benchmark 污染率高达 45% [WEB]）。Omytea 的账本
-> 即一个持续生成 time-locked eval 的装置——这是其学术价值所在。
+> GUWM（§4）是一个研究纲领：跨域统一的**计算协议**，不是物理终极
+> 理论。进步形式包括算子库、统计规律、因果模型、可证伪校准记录。
+> 论文管线（§12）有十类 artifact，每篇带 claim level 和复现包。
 
-### 创始人内心版（[INFERRED]，最需要你确认的一节）
-> 我推断你内心真正想要的是"理解并预测现实"这件事本身——
-> Grand Unified World Model 这个北极星、quantum 研究线、civilization
-> tech-path 研究、418 个版本的计划，都指向同一种渴望：**想做关于
-> 现实的总账**。本审计不否定这个渴望，而是指出它有两条路：
-> 造"预测现实的模型"（与 $1.3B+ 资本竞赛正面相撞 [WEB]），或造
-> "现实的对账系统"（空位、便宜、且是前者的必经依赖）。
-> 你的全部已有资产都在第二条路上。
+### 创始人内心版（v1 推断被原文部分证实，修正如下）
+> v1 推断"你想做关于现实的总账"——半对。原文显示你想要的是**两者**：
+> 既造预测现实的引擎（世界模型选手），又立"敢被评分"的纪律（收据）。
+> 这不是错，但两个渴望需要一个明确的结构关系，否则就是双魂
+> （AUDIT_VERIFICATION N1）。合题在 UPGRADE_PROPOSAL：
+> **引擎是 Omytea 的，记分协议是世界的**。
 
-## 2. 哪些说法准确 / 危险 / 格局不够
+## 2. 准确 / 危险 / 格局不够（基于原文逐条）
 
-| 说法 | 判定 |
-|---|---|
-| "验证/校准/审计是 AI 时代稀缺层" | **准确**，全部证据一致支持 |
-| "我们不声称预测更准" | **准确且是命门**，任何版本不得删 |
-| "Grand Unified World Model"（作为 Omytea 的目标） | **危险**：①与审计层定位自相矛盾（裁判不能下场踢球）②与巨头资本竞赛正面冲突 [WEB] ③触发伪科学模式识别。详见 ULTIMATE_GOAL_REWRITE |
-| "calibration ledger 是个工具/demo" | **格局不够**：它是免疫污染的评测装置原型（见 MISSING_OPPORTUNITIES O2） |
-| "civilization research 是 side project" | **格局不够**：它是收据机制在最长时间尺度上的旗舰演示（O3） |
-| "quantum-core 是核心研究线" [INFERRED] | **应降级**：gate 管辖下的边缘探索，主线零依赖 |
-| schema/协议是内部实现细节 | **格局不够**：它是开放标准候选（O1） |
+| 原文位置 | 说法 | 判定 |
+|---|---|---|
+| §2.7.1 | "the scarce thing is not the prediction — it is the proof. Be the one who gets scored." | **准确且卓越**——全 plan 最好的一句话，应升为公开第一句 |
+| §1 | 一句话身份以 "quantum-information formalism" 开头 | **危险（对外）**：首句即 quantum 触发错误模式识别；内部准确（formalism 限定诚实），但第一接触面应换序（收据先、形式后） |
+| §4 | GUWM 作为 research program | **准确（L0 合法）**——前提是永远带 "research program" 限定词；裸用 "Grand Unified" 对外是危险的 |
+| §2.6 | "four-axis uncontested niche" | **格局虚胖**：17 玩家样本的空位≠护城河（N4）；可防御的是纪律+可移植性 |
+| §2.7.1 | "proven-by-competitor's-absence" | 措辞越界：evidence ≠ proof（N5） |
+| §9 | "first daily-life doorway… similar to how ChatGPT made LLMs visible" | **格局错位**：单人+$0 cloud 做消费级 ChatGPT 时刻是资源幻觉；§14.5 自己的 Idea-stage gate 是对的——执行层面尊重 gate 即可 |
+| §12 | "publication IS the product strategy" | **准确但后果未被正视**：它和商业 wedge（sprint D1）是两种公司（N3），需要 founder 显式排序 |
+| §2.9 | 七条 master negative scope | **准确且优秀**——与 sprint claims matrix 完全兼容 |
+| §14 | 三段 roadmap 全宽度推进 | **格局过载**：诚实但不可执行（N2）；需要 Tier-0 脊柱 |
+| §15.5 | Sean Ellis 40% 硬地板 + substrate-PMF 区分 | **准确**——执行它（10 个访谈）恰是 sprint 已排的事 |
 
-## 3. 本机核验协议（60 分钟）
+## 3. 为什么值得做（基于原文+sprint 证据的合并答案）
 
-1. 打开 docs/OMYTEA_MASTER_PLAN.md，对照本文件第 1 节：七个版本里
-   哪个与原文相符/冲突，逐条批注。
-2. 确认或修正"创始人内心版"——这一节我是从行为证据反推的，
-   只有你能判定真假。
-3. 数一数原文里：以"建造模型/理解现实"为主语的句子 vs 以
-   "记录/评分/审计"为主语的句子。比例本身就是诊断。
-4. 把结果回填本目录（哪怕只是每节一行"对/不对+原因"）。
+1. **供给侧事实**：预测生成成本→0（MiroFish 一夜 $4M 而零校准，
+   §2.7.1 [待外部核验]）。
+2. **稀缺层论证**：被评分的预测者结构性稀缺——评分需要预登记纪律、
+   时间成本、被打脸的勇气，三者都无法用算力购买。
+3. **你的不对称优势**：约束即位置（§1 "convergence point"）——
+   ultra-lean+学术-first+多后端，恰好是资本重玩家不愿占的位置。
+4. **足够大吗**：作为"预测经济的记分协议+第一个敢被评分的世界模型"，
+   它同时有学术纵深（GUWM 纲领）和制度纵深（收据标准）。够大，
+   且大得诚实。

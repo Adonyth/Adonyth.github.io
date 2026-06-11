@@ -1,105 +1,96 @@
-# WORKSTREAM_ALIGNMENT_MATRIX — 全部工作流对齐 master plan V2
+# WORKSTREAM_ALIGNMENT_MATRIX v2 — 基于原文与 Tier-0 规则（取代 v1）
 
-> Role 词表：core（主线本体）/ wedge（市场楔子）/ proof（机制证明）/
-> support（支撑）/ frozen（冻结）/ distraction（应远离）。
-> "偏离信号"= 看到即触发降级审查的行为模式。
+> v1 的重大角色误判已修正：quantum substrate 在真实 plan 中是核心
+> 资产而非边缘线。对齐基准 = amendment 草稿（§A–§F，待 ratify）。
+> Tier-0 活跃轨道：T-A substrate 收据化、T-B 访谈线。其余 DORMANT 或
+> 按角色限定。
 
-## 1. Finance calibration ledger
-- **Role: proof**（机制证明，已完成使命的主要部分）
-- Why：证明了收据机制工程可行（L2）；每日真实运行为可选增值
-- Next action：完成 R3 修复后封板；每日运行按 founder 意愿（可选）
-- Stop rule：任何人（包括你）提出"加标的/加模型/接实时数据"→ 引用
-  PIVOT_DECISION 拒绝
-- Evidence needed：无（除非续跑 60 天冲 L3，那是它唯一的开放路径）
-- Owner：founder（每日 commit）+ Codex（R3）
-- **Fable 5 还碰吗：仅两种情况**——60 天评分判读、attorney 回复后的
-  公开审查（FP-9）
-- 偏离信号：ledger 相关 commit 频率超过 receipt 产品线
+## 1. Quantum substrate（ρ/Lindblad/算子库,原 "quantum-core" 条目）
+- **Role: core**（v1 判 frozen 是误判——这是 plan 的技术本体,
+  L3 prototype 研究资产,§14.5）
+- 但区分两件事：**已有 substrate 的维护与收据化 = T-A 活跃**;
+  **新理论扩展（V10/V2 类提案）= 仍受 gate 管辖**,6/12 填槽死线
+  规则不变（gate 防的是递归,不是 substrate 本身）
+- Next：substrate 内与收据直接相关的部分（校准、conformal、评分）
+  优先整理为可发布形态
+- Stop rule：任何"新形式主义"提案 → gate 或 NEXT_CYCLE_CANDIDATES
+- Fable 5 角色：gate 判官 + 论文 claim-level 审查;不做理论生成
 
-## 2. Golf vertical
-- **Role: wedge-experiment**（resolution 供给实验，不再是"主线候选"）
-- Why：检验"非自产 resolved rows 能否低摩擦获得"——这是 V4 漏洞的
-  第一个实验场
-- Next action：6/13 按 memo 落锤（既有死线不变）；GO 则按"供给实验"
-  新角色执行，上限 8h/周
-- Stop rule：memo 既有 kill 条件 + 新增：若 D1 访谈出现更快的供给源，
-  golf 即降级（供给实验只需要一个最快的）
-- Evidence needed：G1–G3 证据（进行中）
-- Owner：founder（访谈+签字）
-- **Fable 5 还碰吗：只在 6/13 判读时（P4/P5 模板）**
+## 2. Finance calibration ledger
+- **Role: proof → 升格为 T-A 的日常证据面**（§2.7.1 的字面实践:
+  每天被评分的公开记录;v1"降级可选"判定撤回）
+- Next：R3 修复 → 每日真实运行 → attorney 放行后公开
+- Stop rule：扩 universe/加模型/接实时 → 拒绝（边界不变）
+- Fable 5：周评分判读 + 公开前审查
 
-## 3. Omytea UI / product redesign
-- **Role: support → core-enabling**（receipt 页是主线的物理形态）
-- Why：收据必须可分享才存在；但 UI 打磨本身不是进度
-- Next action：CT-0 → CT-1..4（P0 五任务）；P1/P2 在第一次外部 demo
-  反馈前冻结
-- Stop rule：任何 P0 之外的 UI 工作在 5 个访谈完成前 → 拒绝
-- Evidence needed：30 秒复述测试（5 人 ≥3 过）
-- Owner：Cursor（实现）+ founder（验收）
-- **Fable 5 还碰吗：FP-3 red-team 和 FP-6 文案终审，仅此**
-- 偏离信号：开始讨论配色第二轮/动效/重构框架
+## 3. 10 个 non-owner 访谈（原 pitch deck / startup discovery）
+- **Role: core（T-B,全项目第一优先）**——这不只是 sprint 的发明,
+  是 §14.5 World Console 自己的 Idea-stage gate
+- Next：本周 5 条消息 → 两周内 5 个访谈 → 30 天 10 个
+- Stop rule：访谈 0 进展 7 天 → 其他一切降速
+- Fable 5：FP-5 脚本（已备）、FP-11 纪要分析、MP-5 判定
 
-## 4. Quantum-Core / Founding Spine
-- **Role: frozen**（gate 管辖的边缘探索；V10/V2 版本号本身是 V2 漏洞证据）
-- Why：主线零依赖；中立性宪法（amendment §A 推论 2）禁止其升格
-- Next action：6/12 填槽死线既有规则执行（未填→FAIL-budget 关闭）
-- Stop rule：gate 文档全部既有规则 + amendment §A
-- Evidence needed：gate 自身定义
-- Owner：founder（填槽）+ Cursor/Codex（若跑）
-- **Fable 5 还碰吗：只做判官（P5），永不做辩护人或理论扩展**
-- 偏离信号：出现 V11/V3 提案；任何对外材料引用它
+## 4. UI / receipt 页（console 重构）
+- **Role: core-enabling（T-B 物理形态）**,严格 §14.5 纪律:
+  访谈前只做 receipt 页与 demo 装配（CT P0）,不 build console
+  consumer 功能
+- Stop rule：P0 外的 UI 工作在 10 访谈完成前 → 拒绝
+- Fable 5：red-team（FP-3）、文案终审（FP-6）、对齐审计（MP-7,
+  按 amendment §B 词表查内部代号泄漏）
 
-## 5. Public repo / substrate
-- **Role: support → 升格候选（O1 标准玩法的载体）**
-- Next action：CX-6 split checklist → attorney 放行后按 FP-9 逐项发布；
-  spec v0.1 整理（30 天内，O1）
-- Stop rule：任何公开动作在 split checklist + FP-9 审查前 → 禁止
-- Owner：Codex（整理）+ founder（发布按钮）
-- **Fable 5 还碰吗：FP-9 发布审查**
+## 5. 记分协议开源（新条目,O1 制度化）
+- **Role: T-A 组成部分**——schema+评分代码+verifier 以 Apache 2.0
+  发布,走 §2.7 peer-set 打法
+- Next：CX-1/CX-2 完成后整理 spec v0.1;FP-9 发布审查
+- Stop rule：发布前 split checklist + 越级 claim 扫描必须全过
+- Fable 5：spec 文本审查 + 发布审查
 
-## 6. Civilization-tech framework
-- **Role: support → 升格为旗舰内容（O3）**，从"低优先级文章素材"
-  改为"最长时间尺度的收据演示"
-- Why：同一收据机制的最高姿态示范；内容分发资产
-- Next action：维持 Phase 2 的前置条件（主线全绿才动），但产出形态
-  改为"3 条 civilization 收据上 receipt 示例页"而非普通文章
-- Stop rule：若产出滑回"写长文"而无收据形态 → 停（那是旧定位）
-- Evidence needed：发布后的分享/讨论信号
-- Owner：本机 Fable 5（读源文件）+ founder（判定签字——收据主体是你）
-- **Fable 5 还碰吗：是（C7/FP 流程），但排在访谈和 P0 UI 之后**
+## 6. Golf vertical
+- **Role: wedge-experiment**（resolution 供给实验,角色不变）
+- 6/13 落锤死线照旧,证据不足默认 FAIL;GO 上限 8h/周
+- Fable 5：仅 6/13 判读
 
-## 7. Agent operating system（工具链手册）
-- **Role: support（冻结增补状态维持）**
-- Next action：无；6/22 复盘时做减法修订
-- **Fable 5 还碰吗：否（除复盘日）**
+## 7. Civilization-tech framework
+- **Role: support → 旗舰收据（O3,维持升格）**——与 §2.7.1
+  "every artifact is a shareable receipt" 完全同构
+- 前置：T-A/T-B 不受挤占;产出形态必须是收据不是长文
+- Fable 5：本机读源文件 + 收据化改写（排序在访谈之后）
 
-## 8. Pitch deck / startup discovery
-- **Role: core**（V3 漏洞的唯一解药在这条线上）
-- Why：5 个 D1 访谈是当前全项目最高优先级行动；deck 重写排其后
-- Next action：访谈消息今天发（队列既定）；FP-7 deck 大纲在 ≥3 个
-  访谈完成后再做（用真实引语喂 deck，不要再写无证据的 deck）
-- Stop rule：访谈 0 进展 7 天 → 一切其他线降速，强制 discovery 周
-- Evidence needed：访谈纪要本身
-- Owner：founder（唯一不可委派核心）
-- **Fable 5 还碰吗：FP-5 脚本已备、FP-11 纪要分析（≥3 份后）**
+## 8. SpaceWorld / device 全谱 / WorldStudent 蒸馏 / 专利管线
+- **Role: DORMANT**（amendment §C）——零实现、零对齐、零修订
+- 唤醒条件：一条新外部事实 + 置换一条活跃轨道
+- Fable 5：不碰
 
-## 9. Personal / admin / company setup
-- **Role: support（必要维护）**
-- Next action：attorney/DSO/CPA 三邮件（6/17 硬死线，逾期触发
-  发布全冻结）；其余按 FOUNDER_MANUAL_ACTIONS
-- **Fable 5 还碰吗：否——涉及个人敏感信息，按隐私边界永不进入
-  模型上下文；问题清单已是非敏感形态，发出动作纯人工**
+## 9. 学术发表管线（§12）
+- **Role: core-distribution**（plan 定位"发表即产品策略"）
+- 当前义务：§12 "no cycle closes with zero papers in flight"——
+  当前在飞论文 = M1 Lindblad-Hamiltonian（§14.5）[VERIFY-LOCAL:
+  实际进度在 PROJECT_STATE]
+- 与 N3 决断的关系：无论商业与否,论文线都活;访谈数据可能产出
+  第二篇（O2 time-locked benchmark position note）
+- Fable 5：claim-level 审查 + 复现包检查;不代写核心理论
 
-## 总览
+## 10. Agent operating system / 文档管理装置
+- **Role: support,冻结增补**;且按 amendment §D,plan 管理装置本身
+  是 V2 病灶——管理装置的任何"完善"提案默认拒绝
+- Fable 5：仅复盘日减法修订
 
-| 工作流 | Role | 趋势 | Fable 5 |
+## 11. Personal / admin / company
+- **Role: support**;6/17 三邮件死线及"逾期冻结对外发布"规则维持
+- Fable 5：永不进入（隐私边界）
+
+## 总览（v2）
+
+| 工作流 | v1 判定 | **v2 判定** | 变化原因 |
 |---|---|---|---|
-| finance ledger | proof | 封板 | 仅判读/发布审查 |
-| golf | wedge-experiment | 6/13 落锤 | 仅判读 |
-| UI redesign | core-enabling | P0 冲刺 | red-team/文案审 |
-| quantum/spine | frozen | gate 执行 | 仅判官 |
-| public repo | support→O1 升格 | spec 整理 | 发布审查 |
-| civilization | support→O3 升格 | 收据化 | 是（排序靠后） |
-| agent OS | support | 冻结 | 否 |
-| discovery/deck | **core** | **全项目第一优先** | 脚本/分析 |
-| personal/admin | support | 死线执行 | 否（隐私） |
+| quantum substrate | frozen | **core（维护+收据化活跃,新理论仍 gate）** | 角色误判修正 |
+| finance ledger | proof/可选 | **T-A 日常证据面** | §2.7.1 字面实践 |
+| 访谈/discovery | core | **core T-B,第一优先** | §14.5 gate 背书 |
+| UI/receipt 页 | core-enabling | core-enabling（T-B） | 不变 |
+| 记分协议开源 | （无此条） | **T-A 新增** | V1' 合题制度化 |
+| golf | wedge-exp | wedge-exp | 不变 |
+| civilization | 升格 O3 | 升格 O3 | 不变 |
+| SpaceWorld/device/蒸馏/专利 | （未列全） | **DORMANT** | N2 修补 |
+| 论文管线 | （未列） | **core-distribution** | §12 原文 |
+| agent OS / plan 装置 | support 冻结 | support 冻结+管理装置默认拒绝完善 | V2 共因 |
+| personal/admin | support | support | 不变 |
